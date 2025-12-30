@@ -2,10 +2,10 @@ from pyrogram import Client, filters
 from pyrogram.types import ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
 
 # ====== تنظیمات ربات ======
-API_ID = 123456           # مقدار خودت
-API_HASH = "API_HASH"     # مقدار خودت
-BOT_TOKEN = "TOKEN"       # مقدار خودت
-ADMINS = [111111111]      # آیدی عددی ادمین‌ها
+API_ID = 30254546           # مقدار خودت
+API_HASH = "857ff9135853e08ec50a1d61697ef644"     # مقدار خودت
+BOT_TOKEN = "8226214003:AAF8RKZUX8Cdb04CZ-J2TI9lvff7pID5AN4"       # مقدار خودت
+ADMINS = [6236216150]      # آیدی عددی ادمین‌ها
 
 app = Client("sampbot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
